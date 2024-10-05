@@ -12,7 +12,6 @@ import i7 from '../styles/imgs/Logo (6).png';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
 import img19 from '../styles/imgs/image 19.svg';
-import img18 from '../styles/imgs/image 18.svg';
 import img20 from '../styles/imgs/image 20.svg';
 
 
@@ -59,7 +58,7 @@ Maecenas dignissim justo eget nulla rutrum molestie. Maecenas lobortis sem dui, 
 
             <Stack sx={{display:"flex", flexDirection:"row", gap:"20px", position:"relative", justifyContent:"center"}}>
                 <Box sx={{display:"flex", justifyContent:"center", flexDirection:"column", justifySelf:"center", alignItems:"center"}}>
-                    <img src={img18} alt="img1" style={{width:"350px"}}/>
+                    <img src={img20} alt="img1" style={{width:"350px"}}/>
                     <Card sx={{position:"relative", top:"-20%", width:"300px", height:"150px"}}>
                         <CardContent>
                             <Typography gutterBottom sx={{width:"250px", textAlign:"center"}}>Creating Streamlined Safeguarding Processes with OneRen</Typography>
